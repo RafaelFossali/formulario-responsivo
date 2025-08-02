@@ -32,9 +32,8 @@ bash
 Copiar
 Editar
 
----
 formulario-responsivo/
-
+│
 ├── assets/
 │   ├── css/
 │   │   └── style.css          # Estilos do formulário
@@ -44,6 +43,7 @@ formulario-responsivo/
 │
 ├── index.html                 # Estrutura HTML do formulário
 └── README.md                  # Documentação do projeto
+
 
 ---
 
@@ -82,8 +82,12 @@ Editar
 cd formulario-responsivo
 Abra o arquivo index.html diretamente no navegador.
 
+---
+
 📸 Demonstração
-💡 (Se quiser, você pode adicionar prints do formulário em diferentes telas aqui.)
+
+---
+
 
 🚀 Possíveis Melhorias Futuras
 Adicionar validação customizada com JavaScript.
