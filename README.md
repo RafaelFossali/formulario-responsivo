@@ -33,11 +33,8 @@ Copiar
 Editar
 
 ---
-
-
-
 formulario-responsivo/
-│
+
 ├── assets/
 │   ├── css/
 │   │   └── style.css          # Estilos do formulário
@@ -47,8 +44,6 @@ formulario-responsivo/
 │
 ├── index.html                 # Estrutura HTML do formulário
 └── README.md                  # Documentação do projeto
-
-
 
 ---
 
